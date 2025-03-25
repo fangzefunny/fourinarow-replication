@@ -1,0 +1,9 @@
+Flask==3.1.0
+flask_cors==5.0.1
+matplotlib==3.7.1
+numpy==2.2.4
+pandas==2.2.3
+pygame==2.6.1
+PyIBS==0.1.0
+scipy==1.15.2
+seaborn==0.13.2
