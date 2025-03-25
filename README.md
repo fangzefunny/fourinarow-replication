@@ -9,7 +9,7 @@ Here are the important files:
 * `utils/model.py`: Contains the two main models (heuristic agent and BFS agent)
 * `play.py`: Allows interaction with the AI agent
 * `demo/`: Four Jupyter notebook files that replicate key results from the original paper
-* `webapp/`: Website implementation of the Four-in-a-Row game
+* `webapp/`: Website implementation of the Four-in-a-Row game. Run `index.html` with web a browser (recommand Chrome)
   
 ## Implementation Notes
 
